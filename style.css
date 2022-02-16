@@ -1,3 +1,59 @@
 body {
   font-family: "Josefin Sans", sans-serif;
 }
+h1 {
+  font-size: 40px;
+}
+span {
+  color: fuchsia;
+}
+p {
+  font-size: x-large;
+}
+a {
+  text-decoration: none;
+  background-color: crimson;
+  color: white;
+  padding: 10px;
+  border-radius: 40px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.flexible {
+  display: flex;
+  margin-bottom: 135px;
+  background-image: url(top-banner.png);
+  background-repeat: no-repeat;
+}
+.second-top-banner {
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.common-style {
+  width: 40%;
+  padding-left: 4%;
+}
+.common-style img {
+  width: 90%;
+  padding-left: 40px;
+}
+.Third-top-banner {
+  background-image: url(exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.box-shadow {
+  width: 40%;
+  font: size 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  box-shadow: 10px 10px 50px gray;
+  border-radius: 20px;
+}
+footer {
+  text-align: center;
+}
