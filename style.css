@@ -40,7 +40,7 @@ a {
   width: 90%;
   padding-left: 40px;
 }
-.Third-top-banner {
+#Third {
   background-image: url(exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
@@ -52,8 +52,10 @@ a {
   margin-right: 5%;
   padding: 20px;
   box-shadow: 10px 10px 50px rgb(12, 3, 3);
-  border: 10px solid red;
   border-radius: 20px;
+}
+#border-left {
+  border-left: 10px double fuchsia;
 }
 
 footer {
