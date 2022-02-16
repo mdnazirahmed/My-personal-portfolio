@@ -51,9 +51,11 @@ a {
   margin-left: 5%;
   margin-right: 5%;
   padding: 20px;
-  box-shadow: 10px 10px 50px gray;
+  box-shadow: 10px 10px 50px rgb(12, 3, 3);
+  border: 10px solid red;
   border-radius: 20px;
 }
+
 footer {
   text-align: center;
 }
